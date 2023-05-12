@@ -1,2 +1,5 @@
 this is swe text file
 Abewer edited
+
+line3
+line4
